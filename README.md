@@ -1,4 +1,4 @@
-# ICP_1
+# ICP_2
 UCM CS 4710
-Machine Learning Homework 1
-Questions 1 - 9
+Machine Learning Homework 2
+Questions 1 - 5
